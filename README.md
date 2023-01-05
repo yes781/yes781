@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yes781 I love Kali LInux
+- 👋 Hi, I’m @yes781 I love Kali LInux ,WebDev
 - 👀 I’m interested in Hacking ,Coding
 - 🌱 I’m currently learning to code and learning hacking
 - 💞️ I’m looking to collaborate on code 
